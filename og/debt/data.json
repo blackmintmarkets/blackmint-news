@@ -1,17 +1,17 @@
 {
- "debt_date": "2026-11-13",
+ "debt_date": "2026-11-16",
  "figures": {
-  "date": "Nov 13, 2026",
-  "debt_full": "$40,616,678,827,092",
-  "debt_tr": "$40.62 trillion",
-  "grow_day": "$6.76B",
+  "date": "Nov 16, 2026",
+  "debt_full": "$40,662,417,395,617",
+  "debt_tr": "$40.66 trillion",
+  "grow_day": "$6.82B",
   "int_day": "$3.76B",
   "int_to": "Oct 2026",
   "int_yr": "$1.37T",
-  "pp": "$118,837",
+  "pp": "$118,971",
   "rate": "3.58%"
  },
  "interest_to": "2026-10-31",
- "key": "008db4d2bde6",
+ "key": "b8e8c2daa302",
  "source": "treasury"
 }
